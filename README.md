@@ -5,3 +5,6 @@ Objective: Perform exploratory analysis on the given dataset and draw a better u
 Summary: Analyzed the give data, categorizing all the attributes into business and customer attributes. Designed graphs and developed models.
 
 Tools: R, Tableau, Excel 
+
+
+for whole project documentation please refer to the Product-analyst-assessment.pdf file above.
